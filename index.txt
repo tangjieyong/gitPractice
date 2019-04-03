@@ -1,3 +1,4 @@
-git 练习 
+git 练习
+hi
 hello world
 你随便写点提交就好了
