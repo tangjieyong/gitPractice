@@ -1,6 +1,5 @@
-git Á·Ï° 
+git ï¿½ï¿½Ï° 
+hello world
+ï¿½ï¿½ï¿½ï¿½ï¿½Ğ´ï¿½ï¿½ï¿½á½»ï¿½Íºï¿½ï¿½ï¿½
 
-ÄãËæ±ãĞ´µãÌá½»¾ÍºÃÁË
-
-
- let  play  this git game !
+let play this game !
